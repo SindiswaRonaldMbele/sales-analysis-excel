@@ -39,4 +39,4 @@ Order_ID;Order_Date;Product;Category;Quantity;Unit_Price;Region
 1038;2024/06/18;Pen;Stationery;28;15;South
 1039;2024/06/22;Laptop;Electronics;1;12000;West
 1040;2024/06/25;Office Chair;Furniture;2;2500;East
-1041;2024/06/28;Smartphone;Electronics;FALSE;9000;North
+1041;2024/06/28;Smartphone;Electronics;3;9000;North
